@@ -1,5 +1,5 @@
 
-# _Portland / Music_
+# _Portland MusicBox_
 
 #### _This program is a music database and review site for Portland Music_
 
@@ -19,9 +19,7 @@ _2. Run bundle_
 _3. execute these 3 commands:_
 * rake db:setup
 * rake db:test:prepare
-
-_To run the app in your browser, type in ruby app.rb in the command line and you'll be up and running._
-
+* ruby app.rb
 
 
 ## Known Bugs
@@ -30,11 +28,11 @@ _No known bugs_
 
 ## Support and contact details
 
-_If you run into any issues please contact @ tyferrin@gmail.com_
+_If you run into any issues please contact @ devinludwig@gmail.com_
 
 ## Technologies Used
 
 _This app was created with Ruby, ActiveRecord, bootstrap, Jquery, as well as custom css and Javascript. It's database is made possible by Postgres, and psql._
 
 
-Copyright (c) 2016 **_PORTLAND MUSIC, TYLER FERRIN, DEVIN LUDWIG, JAMES LEE, DOLLA BILL KLINKOW_**
+Copyright (c) 2016 **_PORTLAND MUSICBOX, TYLER FERRIN, DEVIN LUDWIG, JAMES LEE, DOLLA BILL KLINKOW_**
